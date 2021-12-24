@@ -1,2 +1,7 @@
 Some text for header
-Changes from <main> - new changes!!!
+Changes from <main> 
+change form first
+
+Text from main: new changes!!!
+
+>>>>>>> 3bd6666 (add footer)
